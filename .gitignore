@@ -1,0 +1,7 @@
+hrss_venv
+__pycache__
+.pytest_cache
+.vscode
+*.log
+*.xml
+.coverage
